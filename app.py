@@ -1,3 +1,4 @@
+# streamlit-langchain-app プログラム 6章
 import os
 
 import streamlit as st
